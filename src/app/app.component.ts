@@ -1,10 +1,11 @@
 import { Component } from '@angular/core';
 
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'linlo73.github.io';
+  title = 'Linlo\'s Recipes';
 }
